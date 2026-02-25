@@ -17,7 +17,7 @@
 - ⚡ Passionate about building scalable real-world systems  
 - 🌱 Currently improving Backend & System Design  
 - 🚀 Love clean UI + Powerful Backend  
-- 📫 Email: your@email.com  
+- 📫 Email: hnayee005@gmail.com  
 
 ---
 
@@ -56,27 +56,27 @@
 # 📊 GitHub Statistics
 
 ## 🔥 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=naim-006&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## 📈 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim-006&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## ⚡ GitHub Streak
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=naim-006&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## 📉 Contribution Graph (Activity Graph)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naim-006&theme=tokyo-night&hide_border=true" />
 
 ---
 
 ## 🐍 Contribution Snake Animation
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/naim-006/naim-006/output/github-contribution-grid-snake.svg" />
 
 ---
 
@@ -92,11 +92,11 @@
 # 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/naim-hossain-973a9432a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Naim-006">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
