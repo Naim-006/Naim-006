@@ -27,7 +27,7 @@
 
 ## <img src="https://api.iconify.design/mdi:account.svg?color=%2338BDF8" width="26" height="26" alt=""/> About Me
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naim-006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+
 
 - <img src="https://api.iconify.design/mdi:school.svg?color=%2338BDF8" width="18" height="18" alt=""/> &nbsp;CSE Student from **Bangladesh**
 - <img src="https://api.iconify.design/mdi:code-tags.svg?color=%2338BDF8" width="18" height="18" alt=""/> &nbsp;Full Stack Developer focused on **real-world applications**
