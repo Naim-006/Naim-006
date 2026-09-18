@@ -45,36 +45,46 @@
 
 ## <img src="https://api.iconify.design/mdi:tools.svg?color=%2338BDF8" width="26" height="26" alt=""/> Tech Arsenal
 
-### <img src="https://api.iconify.design/mdi:monitor-dashboard.svg?color=%2338BDF8" width="22" height="22" alt=""/> Core Stack
-
+### <img src="https://api.iconify.design/mdi:monitor-dashboard.svg?color=%2338BDF8" width="22" height="22" alt=""/> Frontend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,supabase,postgres,mysql,prisma,git,github,vscode,postman,figma,androidstudio&theme=dark&perline=10" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,supabase,postgres,mysql,prisma,git,github,vscode,postman,figma,androidstudio&theme=light&perline=10" />
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,supabase,postgres,mysql,prisma,git,github,vscode,postman,figma,androidstudio&theme=dark&perline=10" alt="My Skills" />
-    </picture>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,flutter,dart&theme=dark&perline=10" alt="Frontend Skills"/>
+</p>
+
+### <img src="https://api.iconify.design/mdi:cog.svg?color=%2338BDF8" width="22" height="22" alt=""/> Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase&theme=dark&perline=10" alt="Backend Skills"/>
+  <br/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+</p>
+
+### <img src="https://api.iconify.design/mdi:database.svg?color=%2338BDF8" width="22" height="22" alt=""/> Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark&perline=10" alt="Database Skills"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 ### <img src="https://api.iconify.design/mdi:cloud.svg?color=%2338BDF8" width="22" height="22" alt=""/> Cloud / Services
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,githubactions&theme=dark&perline=10" alt="Cloud Skills"/>
+  <br/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Cloud Messaging"/>
+</p>
+
+### <img src="https://api.iconify.design/mdi:application-cog.svg?color=%2338BDF8" width="22" height="22" alt=""/> Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,androidstudio&theme=dark&perline=10" alt="Tools & Platforms"/>
 </p>
 
 ### <img src="https://api.iconify.design/mdi:language-cpp.svg?color=%2338BDF8" width="22" height="22" alt=""/> Programming Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
 ---
