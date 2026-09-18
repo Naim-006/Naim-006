@@ -1,17 +1,24 @@
 name: generate snake
 on:
   schedule:
-    - cron: "* */12 * * *"
+    # Runs every 12 hours (Corrected cron syntax)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
     - main
 
+# Added explicit write permissions to fix the 403 error
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Updated from v3 to v4 to fix Node 20 deprecation
+      - uses: actions/checkout@v4
+      
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -19,7 +26,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            
+      # Updated from v3.1.0 to v4 to fix Node 20 deprecation
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
