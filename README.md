@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Naim-006">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=680&height=60&lines=Full+Stack+Developer;CSE+Student+from+Bangladesh;React+%7C+Next.js+%7C+Node.js+%7C+Express;Supabase+%7C+PostgreSQL+%7C+MySQL;Building+Scalable+Production-Ready+Web+Apps" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=680&height=60&lines=Full+Stack+Developer;CSE+Student+from+Bangladesh;React+%7C+Next.js+%7C+Node.js+%7C+Express;Supabase+%7C+PostgreSQL+%7C+Prisma;Building+Scalable+Production-Ready+Web+Apps" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -46,7 +46,6 @@
 ## <img src="https://api.iconify.design/mdi:tools.svg?color=0e75b6" width="26" height="26" alt=""/> Tech Arsenal
 
 ### <img src="https://api.iconify.design/mdi:monitor-dashboard.svg?color=0e75b6" width="22" height="22" alt=""/> Frontend
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -61,7 +60,6 @@
 </p>
 
 ### <img src="https://api.iconify.design/mdi:cog.svg?color=0e75b6" width="22" height="22" alt=""/> Backend
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -73,7 +71,6 @@
 </p>
 
 ### <img src="https://api.iconify.design/mdi:database.svg?color=0e75b6" width="22" height="22" alt=""/> Database
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -82,7 +79,6 @@
 </p>
 
 ### <img src="https://api.iconify.design/mdi:cloud.svg?color=0e75b6" width="22" height="22" alt=""/> Cloud / Services
-
 <p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -93,7 +89,6 @@
 </p>
 
 ### <img src="https://api.iconify.design/mdi:language-cpp.svg?color=0e75b6" width="22" height="22" alt=""/> Programming
-
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -101,7 +96,6 @@
 </p>
 
 ### <img src="https://api.iconify.design/mdi:application-cog.svg?color=0e75b6" width="22" height="22" alt=""/> Tools & Platforms
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
