@@ -106,9 +106,7 @@
 
 ## <img src="https://api.iconify.design/mdi:gamepad-variant.svg?color=%2338BDF8" width="26" height="26" alt=""/> Contribution Games
 
-<p align="center">
-  <b>Snake — eats your GitHub contributions</b>
-</p>
+
 
 <p align="center">
   <picture>
@@ -119,7 +117,7 @@
 </p>
 
 <p align="center">
-  <b>Pac-Man — chomps through your contribution graph</b>
+ 
 </p>
 
 <p align="center">
