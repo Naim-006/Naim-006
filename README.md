@@ -93,10 +93,6 @@
 
 ## <img src="https://api.iconify.design/mdi:chart-box.svg?color=%2338BDF8" width="26" height="26" alt=""/> GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Naim-006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naim-006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Naim-006&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
@@ -104,25 +100,7 @@
 
 ---
 
-<!-- ===================== TROPHIES ===================== -->
 
-## <img src="https://api.iconify.design/mdi:trophy.svg?color=%2338BDF8" width="26" height="26" alt=""/> GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naim-006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- ===================== ACTIVITY ===================== -->
-
-## <img src="https://api.iconify.design/mdi:pulse.svg?color=%2338BDF8" width="26" height="26" alt=""/> Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naim-006&theme=tokyo-night&hide_border=true&area=true&custom_title=Naim%20Hossain%27s%20Contribution%20Graph" alt="Activity Graph"/>
-</p>
-
----
 
 <!-- ===================== GAMES ===================== -->
 
