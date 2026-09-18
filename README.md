@@ -14,7 +14,6 @@
   <a href="https://github.com/Naim-006">
     <img src="https://komarev.com/ghpvc/?username=naim-006&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <img src="https://img.shields.io/github/followers/naim-006?label=Followers&style=flat" />
 </p>
 
 ---
